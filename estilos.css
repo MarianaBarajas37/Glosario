@@ -1,0 +1,67 @@
+*{
+    margin:0; padding: 0;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    background-color: #1b3057;
+    color: white; 
+    padding: 15px 0; 
+    margin: 0; /
+    box-shadow: 1 4px 8px rgba(0, 1, 1, 1); 
+    position: fixed;
+}
+body{
+    background-color: rgb(206, 255, 212);
+}
+.palabras{
+    font-family: fantasy;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    margin-top: 80px; 
+    color: black;
+    border-radius: 30px;
+    background-color: rgb(192, 255, 188);
+    float: left;
+    text-align: center;
+    color: #250e31;
+    font-size: 10px;
+    line-height: 80px;
+    border: dotted 5px rgb(28, 128, 121);
+}
+.palabras2{
+    font-family: fantasy;
+    width: 200px;
+    height: 200px;
+    margin: 15px;
+    margin-top: 80px; 
+    color: black;
+    border-radius: 30px;
+    background-color: rgb(132, 245, 255);
+    float: left;
+    text-align: center;
+    color: #250e31;
+    font-size: 10px;
+    line-height: 80px;
+    border: dotted 5px rgb(28, 128, 121);
+}
+p{
+    font-family: cursive;
+    font-size: 10px;
+    line-height: 170%; 
+    padding: 10px;
+    
+}
+img{
+    position: relative;
+    margin: 90px;
+}
+form{
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+
